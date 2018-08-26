@@ -1,0 +1,315 @@
+/*Labyrinth Lord post data css*/
+
+#characterName{
+    position:absolute;
+    top: 78px;
+    left: 40px;
+	font-size: 0.8em;
+}
+
+#race{
+    position:absolute;
+    top: 78px;
+    left: 230px;
+	font-size: 0.8em;
+}
+
+
+
+#alignment{
+    position:absolute;
+    top: 78px;
+    left: 520px;
+	font-size: 0.8em;
+}
+
+#playerName{
+    position:absolute;
+    top: 135px;
+    left: 410px;
+	font-size: 0.8em;
+}
+
+
+#armourName{
+    position:absolute;
+    top: 780px;
+    left: 620px;
+	font-size: 0.8em;
+}
+
+#armourAc{
+    position:absolute;
+    top: 780px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#armourWeight{
+    position:absolute;
+    top: 780px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+#shieldName{
+    position:absolute;
+    top: 820px;
+    left: 620px;
+	font-size: 0.8em;
+}
+
+#shieldAc{
+    position:absolute;
+    top: 820px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+
+#shieldWeight{
+    position:absolute;
+    top: 820px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+
+#weaponsList{
+    position:absolute;
+    top: 1020px;
+    left: 620px;
+	font-size: 0.6em;
+}
+
+#weaponsList2{
+    position:absolute;
+    top: 1020px;
+    left: 845px;
+	font-size: 0.6em;
+}
+
+#weaponsList3{
+    position:absolute;
+    top: 1020px;
+    left: 900px;
+	font-size: 0.6em;
+}
+
+#totalArmourClassMod{
+    position:absolute;
+    top: 835px;
+    left: 850px;
+	font-size: 0.8em;
+}
+
+#totalArmourWeight{
+    position:absolute;
+    top: 835px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+
+#totalWeaponWeight{
+    position:absolute;
+    top: 1148px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+
+#totalGearWeight{
+    position:absolute;
+    top: 708px;
+    left: 895px;
+	font-size: 0.8em;
+}
+
+#modifiedAc{
+    position:absolute;
+    top: 180px;
+    left: 75px;
+	font-size: 1.6em;
+}
+
+#weaponNotes{
+    position:absolute;
+    top: 1143px;
+    left: 610px;
+	font-size: 0.4em;
+}
+
+
+#gearList{
+    position:absolute;
+    top: 270px;
+    left: 670px;
+	font-size: 0.6em;
+}
+
+#gearList2{
+    position:absolute;
+    top: 270px;
+    left: 900px;
+	font-size: 0.6em;
+}
+
+
+#clothingList{
+    position:absolute;
+    top: 570px;
+    left: 670px;
+	font-size: 0.6em;
+}
+
+#clothingList2{
+    position:absolute;
+    top: 570px;
+    left: 900px;
+	font-size: 0.6em;
+}
+
+#totalWeightCarried{
+    position:absolute;
+    top: 1038px;
+    left: 485px;
+	font-size: 0.7em;
+}
+
+#wealth{
+    position:absolute;
+    top: 1030px;
+    left: 75px;
+	font-size: 0.8em;
+}
+
+#coinWeight{
+    position:absolute;
+    top: 1143px;
+    left: 265px;
+	font-size: 0.7em;
+}
+
+#turnMove{
+    position:absolute;
+    top: 1066px;
+    left: 480px;
+	font-size: 0.6em;
+}
+
+
+#encounterMove{
+    position:absolute;
+    top: 1090px;
+    left: 480px;
+	font-size: 0.6em;
+}
+
+
+#runningMove{
+    position:absolute;
+    top: 1116px;
+    left: 480px;
+	font-size: 0.6em;
+}
+
+
+#level{
+    position:absolute;
+    top: 78px;
+    left: 350px;
+	font-size: 0.8em;
+}
+
+
+#characterRaceTitle{
+    position:absolute;
+    top: 830px;
+    left: 60px;
+	font-size: 0.7em;
+}
+
+
+#characterRaceTrait{
+    position:absolute;
+    top: 850px;
+    left: 60px;
+	font-size: 0.6em;
+}
+
+#pickLocks{
+    position:absolute;
+    top: 853px;
+    left: 700px;
+	font-size: 0.7em;
+}
+
+#findTraps{
+    position:absolute;
+    top: 883px;
+    left: 700px;
+	font-size: 0.7em;
+}
+
+#moveSilently{
+    position:absolute;
+    top: 926px;
+    left: 700px;
+	font-size: 0.7em;
+}
+
+
+#climbWalls{
+    position:absolute;
+    top: 853px;
+    left: 867px;
+	font-size: 0.7em;
+}
+
+
+#hideInShadows{
+    position:absolute;
+    top: 900px;
+    left: 867px;
+	font-size: 0.7em;
+}
+
+#hearNoise{
+    position:absolute;
+    top: 926px;
+    left: 867px;
+	font-size: 0.7em;
+}
+
+#acBonusMonk{
+    position:absolute;
+    top: 770px;
+    left: 700px;
+	font-size: 0.8em;
+}
+
+#unarmedDamageMonk{
+    position:absolute;
+    top: 823px;
+    left: 700px;
+	font-size: 0.7em;
+}
+
+#unarmedAttacksMonk{
+    position:absolute;
+    top: 823px;
+    left: 865px;
+	font-size: 0.8em;
+}
+
+#speedMonk{
+    position:absolute;
+    top: 772px;
+    left: 860px;
+	font-size: 0.6em;
+}
+
+
+
